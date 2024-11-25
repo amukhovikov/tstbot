@@ -3,7 +3,7 @@
 Simple Telegram bot. Extensible and deployable immediately using Netlify.
 
 [![Deploy to
-Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/travishorn/partiibot)
+Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/amukhovikov/tstbot)
 
 This is my entry into the [February 2022 Netlify x Hashnode
 Hackathon](https://townhall.hashnode.com/netlify-hackathon).
